@@ -21,7 +21,7 @@ class App extends React.Component {
     this.setState({ productSearchString: event.target.value });
   }
 
-
+  
   render()
   {
     let output =
